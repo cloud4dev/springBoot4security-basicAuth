@@ -1,4 +1,4 @@
-package cloud4dev.springboot.security;
+package cloud4dev.springboot.security.data;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
